@@ -1,9 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/z1s50geO)
 # STARTER-jpa03
 
+Repo link:
+* Render: <https://jpa03-anon-user-baborqov.onrender.com>
+
 Storybook is here:
-* Production: <https://awhicks.github.io/STARTER-jpa03-docs/>
-* QA:  <https://awhicks.github.io/STARTER-jpa03-docs-qa/>
+* Production: <https://CS-3704-Spring-2023.github.io/spring-setup-group-12-docs/>
+* QA:  <https://CS-3704-Spring-2023.github.io/spring-setup-group-12-docs-qa/>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
